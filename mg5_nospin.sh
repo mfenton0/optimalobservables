@@ -11,6 +11,6 @@ decay t > w+ b, w+ > l+ vl
 decay w+ > l+ vl
 decay t~ > w- b~, w- > l- vl~
 decay w- > l- vl~
-set nevents 100000
+set nevents 40000
 set spinmode none
 #launch
