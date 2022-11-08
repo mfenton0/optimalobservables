@@ -31,7 +31,7 @@ ls -ltrh
 
 if [ "${SPINMODE}" = "NOSPIN" ]; then
     echo "Generating samples with no spin correlation"
-    cp /DFS-L/DATA/atlas/mjfenton/carlos/mg5_nospin.sh ./mg5.sh
+    cp /DFS-L/DATA/atlas/mjfenton/optimalobservables/mg5_nospin.sh ./mg5.sh
 fi
 
 
